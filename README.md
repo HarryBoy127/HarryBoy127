@@ -21,13 +21,31 @@ About Me:
   <li>📫 How to reach me: harrisonajisogun127@gmail.com</li>
 </ul>
 
-<h3 align="left">Top 3 Projects:</h3>
+<h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://www.datascienceportfol.io/franklin03/projects/0">Frankie Lighting Bulbs Revenue Dashboard</a></li>
-  <li><a href="https://www.datascienceportfol.io/franklin03/projects/1">Market Research ChatGPT Web Application</a></li>
-  <li><a href="https://github.com/Franklin0603/covid-etl">Covid ETL Project</a></li>
+  <li><a href="https://github.com/HarryBoy127/European-Ski-Resort">European Ski Resort</a></li>
+  <li><a href="https://github.com/HarryBoy127/bank-activity-lab">Bank Activity</a></li>
 </ul>
 
+<h3 align="left">Skills:</h3>
+<ul>
+  <li>Data Storytelling & Dashboards: Proficient in crafting compelling data narratives tools like LookerStudio</li>
+  <li>Data Querying & Manipulation: Experienced in utilizing Python, Pandas, Matplotlib, and SQL for thorough data analysis and visualization.</li>
+  <li>Data Reporting: Skilled at transforming business data and metrics into charts and visualizations.</li>
+</ul>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarryBoy127&show_icons=true&locale=en&layout=compact" alt="HarryBoy127" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarryBoy127&show_icons=true&locale=en" alt="HarryBoy127" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarryBoy127/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarryBoy127/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 HarryBoy127/HarryBoy127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
