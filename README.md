@@ -21,9 +21,9 @@ About Me:
   <li>📫 How to reach me: harrisonajisogun127@gmail.com</li>
 </ul>
 
- align="left">Education:</h3>h3>
+<h3 align="left">Education:</h3>h3>
 <ul>
-  <li> B.B.A Business Administraion  CUNY Lehman College at Bronx(May 2024)
+   <li> B.B.A Business Administraion  CUNY Lehman College at Bronx(May 2024)
   
 
 <h3 align="left">Projects:</h3>
