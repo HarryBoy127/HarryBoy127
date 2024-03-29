@@ -48,7 +48,7 @@ About Me:
      
   <a href= "https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/tableau-software" alt="Tableau" width="40" height="40"/> </a> 
   
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/tableau-software" alt="tableau" width="40" height="40"/> </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau-software/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
      
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
