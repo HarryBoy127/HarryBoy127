@@ -25,6 +25,9 @@ About Me:
 <ul>
   <li><a href="https://github.com/HarryBoy127/European-Ski-Resort">European Ski Resort</a></li>
   <li><a href="https://github.com/HarryBoy127/bank-activity-lab">Bank Activity</a></li>
+  <li><a href="https://github.com/HarryBoy127/Spotify_songs_Dataset">Spotify_songs</a></li>
+  <li><a href="https://github.com/HarryBoy127/FraudDataset">FraudDataset</a></li>
+  
 </ul>
 
 <h3 align="left">Skills:</h3>
