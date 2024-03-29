@@ -23,9 +23,9 @@ About Me:
 
 <h3 align="left">Education:</h3>h3>
 <ul>
-   <li> B.B.A Business Administraion  CUNY Lehman College at Bronx(May 2024)
+  <li> B.B.A Business Administraion  CUNY Lehman College at Bronx(May 2024)
+</ul>
   
-
 <h3 align="left">Projects:</h3>
 <ul>
   <li><a href="https://github.com/HarryBoy127/European-Ski-Resort">European Ski Resort</a></li>
